@@ -101,10 +101,6 @@ Credit-Risk-Analysis
 
 ![Credit Risk Analysis Dashboard](images/credit_risk_dashboard.png)
 
-### Power BI-Datenmodell
-
-![Power BI-Datenmodell](images/data_model.png)
-
 ---
 
 ## Nachgewiesene Fähigkeiten
