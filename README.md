@@ -1,12 +1,12 @@
 # Credit Risk Analysis
 
-## Project Overview
+## Projektübersicht
 
-This project demonstrates an end-to-end Credit Risk Analysis solution using **SQL Server** and **Power BI**. Customer, loan, and payment data were imported into SQL Server, analyzed using SQL queries, and visualized through an interactive Power BI dashboard.
+Dieses Projekt zeigt eine End-to-End-Lösung zur Analyse von Kreditrisiken mit **SQL Server** und **Power BI**. Kunden-, Kredit- und Zahlungsdaten wurden in SQL Server importiert, mit SQL analysiert und anschließend in einem interaktiven Power BI-Dashboard visualisiert.
 
 ---
 
-## Tools & Technologies
+## Verwendete Technologien
 
 - SQL Server Management Studio (SSMS)
 - SQL
@@ -15,9 +15,9 @@ This project demonstrates an end-to-end Credit Risk Analysis solution using **SQ
 
 ---
 
-## Dataset
+## Datensatz
 
-The project uses the following datasets:
+Das Projekt verwendet die folgenden CSV-Dateien:
 
 - customers.csv
 - loans.csv
@@ -25,7 +25,7 @@ The project uses the following datasets:
 
 ---
 
-## Database Tables
+## Datenbanktabellen
 
 - Customers
 - Loans
@@ -33,41 +33,41 @@ The project uses the following datasets:
 
 ---
 
-## SQL Tasks
+## SQL-Aufgaben
 
-- Created the CreditRiskDB database
-- Created Customers, Loans, and Payments tables
-- Imported CSV files using SSMS Import Flat File Wizard
-- Validated imported data
-- Performed SQL analysis using:
-  - Joins
-  - Aggregations
-  - CASE statements
-  - Business KPI queries
+- Erstellung der Datenbank **CreditRiskDB**
+- Erstellung der Tabellen **Customers**, **Loans** und **Payments**
+- Import der CSV-Dateien mit dem **SSMS Import Flat File Wizard**
+- Überprüfung der importierten Daten
+- Durchführung von SQL-Analysen mit:
+  - JOIN-Abfragen
+  - Aggregatfunktionen (SUM, COUNT, AVG)
+  - CASE-Anweisungen
+  - KPI- und Geschäftsanalysen
 
 ---
 
 ## Power BI Dashboard
 
-The dashboard includes:
+Das Dashboard enthält:
 
-- Total Customers
-- Total Loans
-- Total Loan Amount
-- Total Payment Amount
-- Average Credit Score
-- Average Annual Income
-- Loan Status Distribution
-- Loan Type Distribution
-- Payment Status Analysis
-- Credit Score Distribution
-- Income vs Loan Amount Analysis
-- Customer Loan Details
-- Interactive Slicers
+- Gesamtzahl der Kunden
+- Gesamtzahl der Kredite
+- Gesamte Kreditsumme
+- Gesamtbetrag der Zahlungen
+- Durchschnittlicher Kredit-Score
+- Durchschnittliches Jahreseinkommen
+- Analyse des Kreditstatus
+- Analyse der Kreditarten
+- Analyse des Zahlungsstatus
+- Verteilung der Kredit-Scores
+- Analyse von Einkommen und Kredithöhe
+- Kundendetails
+- Interaktive Filter (Slicer)
 
 ---
 
-## Project Structure
+## Projektstruktur
 
 ```text
 Credit-Risk-Analysis
@@ -95,27 +95,30 @@ Credit-Risk-Analysis
 
 ---
 
-## Dashboard Preview
+## Dashboard-Vorschau
 
 ### Credit Risk Analysis Dashboard
 
-![Credit Risk Dashboard](images/credit_risk_dashboard.png)
+![Credit Risk Analysis Dashboard](images/credit_risk_dashboard.png)
 
+### Power BI-Datenmodell
 
----
-
-## Key Skills Demonstrated
-
-- SQL Database Design
-- Data Import & Validation
-- SQL Queries & Business Analysis
-- Data Modeling
-- Power BI Dashboard Development
-- KPI Reporting
-- Data Visualization
+![Power BI-Datenmodell](images/data_model.png)
 
 ---
 
-## Author
+## Nachgewiesene Fähigkeiten
+
+- Datenbankdesign mit SQL Server
+- Datenimport und Datenvalidierung
+- SQL-Abfragen und Datenanalyse
+- Datenmodellierung
+- Entwicklung interaktiver Power BI-Dashboards
+- KPI-Berichterstellung
+- Datenvisualisierung
+
+---
+
+## Autor
 
 **Anitha Doddavula**
