@@ -67,6 +67,21 @@ Das Dashboard enthält:
 
 ---
 
+Dieses Repository enthält den Power-BI-Bericht
+Credit_Risk_Analysis_Dashboard.pbix.
+
+## Power BI-Datei öffnen
+
+
+Öffnen Sie den Ordner powerbi in diesem Repository.
+Klicken Sie auf Credit_Risk_Analysis_Dashboard.pbix.
+Klicken Sie auf Download bzw. Download raw file.
+Speichern Sie die Datei auf Ihrem Computer.
+Öffnen Sie die heruntergeladene Datei mit Microsoft Power BI Desktop.
+
+💡 Hinweis: GitHub kann .pbix-Dateien nicht direkt im Browser anzeigen. Sie müssen die Datei zuerst herunterladen und anschließend mit Microsoft Power BI Desktop öffnen.
+
+
 ## Projektstruktur
 
 ```text
