@@ -70,7 +70,7 @@ Das Dashboard enthält:
 Dieses Repository enthält den Power-BI-Bericht
 Credit_Risk_Analysis_Dashboard.pbix.
 
-## Power BI-Datei öffnen
+### Power BI-Datei öffnen
 
 
 Öffnen Sie den Ordner powerbi in diesem Repository.
